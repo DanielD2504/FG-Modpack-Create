@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","mod_resources","netherexp:jne_retextures","file/Icon Xaero\u0027s 1.22.zip","file/Fusion Connected Blocks v1.1.0 for Minecraft 1.20-26.2.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"]

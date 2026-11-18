@@ -1,0 +1,13 @@
+name = "Group-Create"
+author = "DanielD2504"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8ad883253ae7ca77faddc8670b55584bfbf9eb579468425389b27469d4ab3ff4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"

@@ -1,0 +1,25 @@
+filename = 'ManyIdeasDoors-1.21.1-2.0.2.jar'
+name = 'ManyIdeas Doors'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.0.2'
+
+[download]
+hash = '80059ecbf39ba63adeaa8872316cda0aed6391e7e0443fd3f7f8e8eb83dfb9b1ff7723bd0b6ee03b67699cdd094429b1001f8ed61229fee20d8faceeec02714c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B4U5vxjd/versions/JBynegr7/ManyIdeasDoors-1.21.1-2.0.2.jar'
+
+[update.modrinth]
+mod-id = 'B4U5vxjd'
+version = 'JBynegr7'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LG8SignH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BBY8EPJt'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'offlineskins-reloaded-1.21.1-NeoForge-1.2.2.jar'
+name = 'OfflineSkins Reloaded'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.2-NeoForge'
+
+[download]
+hash = '2fcfb33bccfa9e5358655cf2104b06955fd02c03531e8fcc6de452943aa0b5cb1e747a9e0d59464546a4bc0caffe56e73bbfc56da24893e810ecc801b935d8de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jwBsp59y/versions/xYUsRAQn/offlineskins-reloaded-1.21.1-NeoForge-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'jwBsp59y'
+version = 'xYUsRAQn'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'
